@@ -51,10 +51,6 @@ Today we will be exploring Hybrid Cloud with a focus on |_VCF| (VCF) and **HCX**
 Agenda
 =======
 
-As part of every module, there could be a challenge to complete. These are optional however we encourage everyone to have to a go.
-
-Before each module, the instructor will discuss and demonstrate the topic. Whilst we like enthusiasm we recommend everyone pauses at the completion of each module until the instructor starts that particular topic.
-
 +-------+---------------------------------------------+
 | Time  | Topic                                       |  
 +-------+---------------------------------------------+
