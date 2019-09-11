@@ -1,8 +1,10 @@
 Resources
 ==========================================
 
+Below are a list of resources to help you
+
 +-----------------+----------------------------------------------------+
-| Production Page |           vmware.com/go/cloudfoundation            |
+| Production Page |       https://vmware.com/go/cloudfoundation        |
 +-----------------+----------------------------------------------------+
 | Documentation   | https://vmware.com/go/cloudfoundation-docs         |
 +-----------------+----------------------------------------------------+
@@ -15,8 +17,6 @@ Resources
 | Community       | https://vmware.com/go/cloudfoundation-community    |
 +-----------------+----------------------------------------------------+
 | FAQ             | https://vmware.com/go/cloudfoundation-faq          |
-+-----------------+----------------------------------------------------+
-| Twitter         | @VMWvCF                                            |
 +-----------------+----------------------------------------------------+
 | Youtube         | https://YouTubeyoutube.com/c/VMwareCloudFoundation |
 +-----------------+----------------------------------------------------+
