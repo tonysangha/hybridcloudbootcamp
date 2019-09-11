@@ -1,7 +1,7 @@
 Resources
 ==========================================
 
-Below are a list of resources to help you
+Below are a list of resources to help you on your VMware Cloud Foundation journey: 
 
 +-----------------+----------------------------------------------------+
 | Production Page |       https://vmware.com/go/cloudfoundation        |
@@ -20,4 +20,3 @@ Below are a list of resources to help you
 +-----------------+----------------------------------------------------+
 | Youtube         | https://YouTubeyoutube.com/c/VMwareCloudFoundation |
 +-----------------+----------------------------------------------------+
-
