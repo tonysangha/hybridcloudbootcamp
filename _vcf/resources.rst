@@ -4,9 +4,9 @@ Resources
 +-----------------+--------------------------------------------------------------------------+
 | Production Page |                      vmware.com/go/cloudfoundation                       |
 +-----------------+--------------------------------------------------------------------------+
-| Documentation   | [vmware.com/go/cloudfoundation-docs](vmware.com/go/cloudfoundation-docs) |
+| Documentation   | [vmware.com/go/cloudfoundation-docs](https://vmware.com/go/cloudfoundation-docs) |
 +-----------------+--------------------------------------------------------------------------+
-| Poster          | vmware.com/go/cloudfoundation-poster                                     |
+| Poster          | https://vmware.com/go/cloudfoundation-poster                                     |
 +-----------------+--------------------------------------------------------------------------+
 | Blog            | blogs.vmware.com/cloud-foundation                                        |
 +-----------------+--------------------------------------------------------------------------+
